@@ -1,0 +1,10 @@
+{
+  "Prod": {
+    "rootBackup": "server.bandanawaz.xyz",
+    "apph5Backup": "home.bandanawaz.co"
+  },
+  "Test": {
+    "rootBackup": "testgp-server.xiatiaotechnology.xyz",
+    "apph5Backup": "apph5-xw.xiatiaotechnology.xyz"
+  }
+}
