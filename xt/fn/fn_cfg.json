@@ -1,0 +1,4 @@
+{
+  "Prod": { "rootBackup": "server.finnuvi.xyz", "apph5Backup": "home.finnuvi.com" },
+  "Test": { "rootBackup": "testgp-server.xiatiaotechnology.xyz", "apph5Backup": "apph5-xt.xiatiaotechnology.xyz" }
+}
