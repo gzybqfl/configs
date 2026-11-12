@@ -1,10 +1,10 @@
 {
   "Prod": {
-    "rootBackup": "server.paisalamp.xyz",
-    "apph5Backup": "home.paisalamp.com"
+    "a3": "server.paisalamp.xyz",
+    "g9": "home.paisalamp.com"
   },
   "Test": {
-    "rootBackup": "testgp-server.xiatiaotechnology.xyz",
-    "apph5Backup": "xw-paisalamp.testapp.xiatiaotechnology.xyz"
+    "a3": "testgp-server.xiatiaotechnology.xyz",
+    "g9": "xw-paisalamp.testapp.xiatiaotechnology.xyz"
   }
 }
