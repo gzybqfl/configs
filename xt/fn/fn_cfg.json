@@ -1,4 +1,10 @@
 {
-  "Prod": { "rootBackup": "server.finnuvi.xyz", "apph5Backup": "home.finnuvi.com" },
-  "Test": { "rootBackup": "testgp-server.xiatiaotechnology.xyz", "apph5Backup": "xt-finnuvi.testapp.xiatiaotechnology.xyz" }
+  "Prod": {
+    "h7": "server.finnuvi.xyz",
+    "l3": "home.finnuvi.com"
+  },
+  "Test": {
+    "h7": "testgp-server.xiatiaotechnology.xyz",
+    "l3": "xt-finnuvi.testapp.xiatiaotechnology.xyz"
+  }
 }
