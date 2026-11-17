@@ -1,0 +1,10 @@
+{
+  "Prod": {
+    "n6": "server.pitaramo.xyz",
+    "s2": "home.pitaramo.com"
+  },
+  "Test": {
+    "n6": "testgp-server.xiatiaotechnology.xyz",
+    "s2": "xt-pitaramo.testapp.xiatiaotechnology.xyz"
+  }
+}
