@@ -1,0 +1,10 @@
+{
+  "Prod": {
+    "u4": "server.henucred.xyz",
+    "u9": "home.henucred.com"
+  },
+  "Test": {
+    "u4": "testgp-server.xiatiaotechnology.xyz",
+    "u9": "xw-henucred.testapp.xiatiaotechnology.xyz"
+  }
+}
