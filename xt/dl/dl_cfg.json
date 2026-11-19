@@ -1,0 +1,10 @@
+{
+  "Prod": {
+    "k5": "server.dipuloan.xyz",
+    "w2": "home.dipuloan.com"
+  },
+  "Test": {
+    "k5": "testgp-server.xiatiaotechnology.xyz",
+    "w2": "xt-dipuloan.testapp.xiatiaotechnology.xyz"
+  }
+}
