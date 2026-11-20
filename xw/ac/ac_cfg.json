@@ -1,0 +1,10 @@
+{
+  "Prod": {
+    "v6": "server.aasracash.xyz",
+    "b5": "home.aasracash.com"
+  },
+  "Test": {
+    "v6": "testgp-server.xiatiaotechnology.xyz",
+    "b5": "xw-aasracash.testapp.xiatiaotechnology.xyz"
+  }
+}
